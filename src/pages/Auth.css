@@ -1,0 +1,33 @@
+.auth {
+  background-color: rgb(242, 240, 238);
+  height: 94.5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.auth-container {
+  background-color: rgb(238, 236, 205);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+}
+
+.auth-container > input {
+  width: 30vw;
+  margin: 1rem;
+  padding-left: 10px;
+  height: 30px;
+}
+
+.auth-button {
+  margin: 1rem;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.other {
+  margin-top: 1rem;
+}
