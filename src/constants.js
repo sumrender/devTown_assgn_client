@@ -1,4 +1,4 @@
-export const API_BASE = "http://localhost:5000";
+export const API_BASE = "https://pinterest-server.onrender.com";
 
 export const LOGIN_ROUTE = API_BASE + "/api/users/login";
 export const REGISTER_ROUTE = API_BASE + "/api/users/register";
